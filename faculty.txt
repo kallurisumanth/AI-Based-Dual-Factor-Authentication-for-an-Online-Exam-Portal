@@ -1,0 +1,13 @@
+create table faculty(
+f_name VARCHAR(50),
+l_name VARCHAR(50),
+userid VARCHAR(50),
+email VARCHAR(50),
+password VARCHAR(50),
+cpassword VARCHAR(50),
+status VARCHAR(50),
+gender VARCHAR(50),
+address VARCHAR(50),
+dob VARCHAR(50),
+country VARCHAR(50)
+);
